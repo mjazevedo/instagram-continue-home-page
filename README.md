@@ -1,5 +1,10 @@
-## Instagram Home Page 
+# Instagram Home Page  :computer:
 
-Página estática do instagram ensinado na DIO.
+## Utilizado HTML e CSS
 
-A partir do aprendizado foi mostrado como usar os seletores display e flex-direction, fundamentais na construção da página.
+Projeto da página inicial do instagram, ensinado no Bootcamp Fullstack da Everis disponibilizado na DIO (Digital Innovation One). 
+
+A construção da página de login do instagram, ensinado pela Gabriela Pinheiro aborda o conceito sobre CSS utilizando flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade.
+
+![](C:\Users\mathe\Desktop\Capturar.PNG)
+
